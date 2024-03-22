@@ -108,6 +108,50 @@
         </tr>
     </table> 
 </div>
+<img width="12"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12"  />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pazindushane&theme=chartreuse-dark&show_icons=true&locale=en" alt="pazindushane" /></p>
 
