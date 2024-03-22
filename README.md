@@ -130,8 +130,14 @@
             <td align="center" width="96">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" />
             </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="Haskell" width="48" height="48" />
+            </td>
         </tr>
         <tr>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
+            </td>
             <td align="center" width="96">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" alt="Webflow" width="48" height="48" />
             </td>
@@ -173,12 +179,6 @@
             </td>
             <td align="center" width="96"> 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" alt="Objective-C" width="48" height="48" />
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="Haskell" width="48" height="48" />
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
             </td>
         </tr>
     </table> 
