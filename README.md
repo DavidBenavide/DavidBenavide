@@ -53,6 +53,16 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="html" />
             </a>
             </td>
+            <td align="center" width="96">
+            <a href="https://www.docker.com/" >
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="48" height="48" />
+            </a>
+            </td>
+            <td align="center" width="96"> 
+            <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" > 
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" alt="Objective-C" width="48" height="48" />
+            </a>
+            </td>
         </tr>
         <tr>
             <td align="center" width="96">
@@ -90,14 +100,12 @@
             <a href="https://spring.io/" >
                 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring" />
             </a>
-            </td><td align="center" width="96">
-            <a href="https://spring.io/" >
-                <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring" />
-            </a>
-            </td><td align="center" width="96">
-            <a href="https://spring.io/" >
-                <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring" />
-            </a>
+            </td>
+            <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48" />
+            </td>
+            <td align="center" width="96">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="Haskell" width="48" height="48" />
             </td>
         </tr>
     </table> 
