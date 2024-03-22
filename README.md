@@ -56,9 +56,6 @@
             <td align="center" width="96">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="48" height="48" />
             </td>
-            <td align="center" width="96">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
-            </td>
         </tr>
         <tr>
             <td align="center" width="96">
@@ -100,9 +97,6 @@
             <td align="center" width="96">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48" />
             </td>
-            <td align="center" width="96">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="48" height="48" />
-            </td>
         </tr>
         <tr>
             <td align="center" width="96">
@@ -129,9 +123,6 @@
             </td>
             <td align="center" width="96">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48" height="48" />
-            </td>
-            <td align="center" width="96">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="Haskell" width="48" height="48" />
             </td>
         </tr>
         <tr>
@@ -160,9 +151,6 @@
             <td align="center" width="96">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
             </td>
-            <td align="center" width="96">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" />
-            </td>
         </tr>
         <tr>
             <td align="center" width="96">
@@ -177,8 +165,17 @@
             <td align="center" width="96">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="48" height="48" />
             </td>
-            <td align="center" width="96"> 
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" alt="Objective-C" width="48" height="48" />
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48" />
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48" />
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" width="48" height="48" />
+            </td>
+            <td align="center" width="96">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="Haskell" width="48" height="48" />
             </td>
         </tr>
     </table> 
